@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Weather Map</title>
-    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=d74274a3b7398629b49bd6f50b93e376"></script>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=kakaomapAPI_Key"></script>
     <style>
         .custom-overlay {
             position: absolute;

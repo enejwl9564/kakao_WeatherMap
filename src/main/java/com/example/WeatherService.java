@@ -12,7 +12,7 @@ import java.util.Map;
 @Service
 public class WeatherService {
 
-    private final String weatherApiKey = "ea0f74812dad2a75406356378e49142c";
+    private final String weatherApiKey = "³¯¾¾API_Key";
 
     public Map<String, Object> getWeatherData(Double latitude, Double longitude) {
         RestTemplate restTemplate = new RestTemplate();
